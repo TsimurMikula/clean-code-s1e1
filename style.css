@@ -37,6 +37,9 @@
   display: inline-block;
   flex-grow: 1;
 }
+.content-item__task {
+  font-size: 18px;
+}
 .content-list {
   margin: 0;
   padding: 0px;
