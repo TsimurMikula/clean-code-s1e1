@@ -57,7 +57,6 @@
 }
 .content-item__btn-delete {
   width: 45px;
-  height: 45px;
 }
 .content-item__btn-delete:hover,
 .content-item__btn-edit:hover,
@@ -86,11 +85,8 @@
   background: #fff;
   border-radius: 6px;
   font-family: "Lato", sans-serif;
-  color: #888;
 }
-.content-item__edit:focus {
-  color: #333;
-}
+
 
 /* New Task */
 .content__title {
